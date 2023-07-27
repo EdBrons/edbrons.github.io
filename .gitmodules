@@ -1,0 +1,3 @@
+[submodule "themes/tophat"]
+	path = themes/tophat
+	url = https://github.com/sergiobarriel/tophat-theme.git
